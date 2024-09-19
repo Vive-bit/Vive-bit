@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vive-bit
-- 👀 I'm a python, java, c#, html css js developer
-- There are some projects i made for you to see
+- 👀 I like to code using python, java, html, css, js
+- Mostly private
 - Since 2019
