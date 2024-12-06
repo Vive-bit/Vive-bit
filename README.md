@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vive-bit aka. Martin Lechner!
+# 👋 Hi there, I'm Vive-bit aka. Martin L.!
 
 🌟 **Welcome to my GitHub profile!** I'm a passionate coding hobbyist with a love for Python, HTML, JavaScript, CSS, and Java, as well as other languages like C and C#. Here, you can find my projects, contributions, and more about me!
 
