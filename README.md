@@ -1,13 +1,6 @@
 # 👋 Hi there, I'm Vive-bit aka. Martin L.!
 
-🌟 **Welcome to my GitHub profile!** I'm a passionate coding hobbyist with a love for Python, HTML, JavaScript, CSS, and Java, as well as other languages like C and C#. Here, you can find my projects, contributions, and more about me!
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on GPT & LSTMs.
-- 🌱 I’m exploring the challenges of applying GPT in specialized domains
+🌟 **Welcome to my GitHub profile!** I'm a passionate coding hobbyist with a love for Python, JavaScript, (HTML, CSS, XML, YML, ...), C# and Java, as well as low-level languages like Rust, C and C++. Here, you can find my projects, contributions, and more about me!
 
 ---
 
